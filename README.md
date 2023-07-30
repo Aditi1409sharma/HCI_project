@@ -1,4 +1,13 @@
 # HCI_project Group 2.1
+
+BY:
+Abhishek Bansal (2022021)
+Abhishek Beniwal (2022022)
+Abhishek Jha (2022023)
+Adarsh Jha (2022024)
+Aditi Sharma (2022025)
+
+
 We made an application prototype using Figma and Miroboard.
 Problem Statement:
 Nowadays, almost every household has a pet. Even though we say they are a part of
