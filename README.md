@@ -11,6 +11,7 @@ a caretaker for their pet while they are away, a place where one can book a tick
 (train, flight, etc.) for their pet, somewhere to book veterinary appointments and
 somewhere to find vlogs and information about their pets.
 
+
 Tech stack:
 We have used Figma for prototyping.
 Miroboard for ideating.
