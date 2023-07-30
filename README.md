@@ -12,9 +12,9 @@ a caretaker for their pet while they are away, a place where one can book a tick
 somewhere to find vlogs and information about their pets.
 
 
-Tech stack:
+Tech stack:                                                                                                
 We have used Figma for prototyping.                                                                                                                                   
 Miroboard for ideating.                                                                                                                                               
 Google Docs for documents.                                                                                                                         
-Google forms for survey.
+Google forms for survey.                                                                                                               
 Google Slides for final project submission.
